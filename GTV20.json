@@ -623,6 +623,12 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2025-11-09"
-   }
+   },
+    {
+      "device_id": "f0264abb6719b7b0",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-11-09"
+    }
   ]
 }
