@@ -1300,7 +1300,13 @@
       "device_id": "7994f15114964702",
       "username": "Username",
       "password": "password",
+      "expire_date": "2025-10-30"
+   },
+    {
+      "device_id": "64dceb15fefb3c55",
+      "username": "Username",
+      "password": "password",
       "expire_date": "2025-11-31"
-   }
+    }
   ]
 }
