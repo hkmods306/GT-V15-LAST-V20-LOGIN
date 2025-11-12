@@ -726,8 +726,7 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2025-12-10"
-   }
-   ,
+   },
    {
       "device_id": "307952495197ffb2",
       "username": "Username",
@@ -799,7 +798,8 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2025-12-12"
-   }{
+   },
+   {
       "device_id": "a17603bd74de2a1a",
       "username": "Username",
       "password": "password",
